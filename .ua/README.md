@@ -36,6 +36,7 @@ GRAPH_DIR="$MIKA_REPO" pnpm exec vite --host 127.0.0.1
 | --- | --- |
 | [knowledge-graph.json](knowledge-graph.json) | 节点、关系、架构层及中文学习导览 |
 | [STUDY_GUIDE.md](STUDY_GUIDE.md) | 可直接在 GitHub 阅读的架构概览与学习路线 |
+| [UA_ONBOARDING.md](../docs/UA_ONBOARDING.md) | onboard 技能生成的开发者入门指南、文件地图与复杂度热点 |
 | [analysis-report.json](analysis-report.json) | 分析来源、覆盖范围与限制 |
 | [validation-report.json](validation-report.json) | 结构、覆盖、导入关系与指纹校验结果 |
 | [graph-review.json](graph-review.json) | 官方校验结果及无连接节点提示 |
