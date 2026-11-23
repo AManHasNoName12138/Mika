@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-11-23T11:20:57.171365+00:00",
+  "viewerVersion": "2.9.8",
+  "httpStatus": 200,
+  "project": "Mika",
+  "nodes": 13496,
+  "edges": 36352,
+  "layers": 10,
+  "tourSteps": 15,
+  "pageErrors": [],
+  "checks": [
+    "Dashboard rendered project name",
+    "Dismissed onboarding",
+    "Graph endpoint returned complete graph",
+    "Started guided tour and rendered first step"
+  ],
+  "passed": true
+}

@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "sourceCommit": "f3bbbdf92caeb4259d55922e12f61f6da11469fd",
+  "analyzedFiles": 2311,
+  "nodes": 13496,
+  "edges": 36352,
+  "layers": 10,
+  "tourSteps": 15,
+  "resolvedImports": 2524,
+  "fingerprintedFiles": 2311,
+  "isolatedNodes": 759,
+  "fileCategories": {
+    "code": 1515,
+    "docs": 280,
+    "config": 478,
+    "infra": 4,
+    "markup": 32,
+    "script": 2
+  },
+  "nodeTypes": {
+    "file": 1543,
+    "class": 2307,
+    "function": 8869,
+    "service": 8,
+    "pipeline": 5,
+    "document": 282,
+    "config": 482
+  },
+  "edgeTypes": {
+    "imports": 2524,
+    "contains": 19289,
+    "exports": 10209,
+    "calls": 3123,
+    "tested_by": 869,
+    "documents": 328,
+    "triggers": 4,
+    "deploys": 2,
+    "depends_on": 2,
+    "configures": 2
+  },
+  "issues": []
+}
